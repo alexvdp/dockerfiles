@@ -1,0 +1,10 @@
+{
+  "ID": "vault-service",
+  "Name": "vault",
+  "Tags": [
+    "specific",
+    "v1"
+  ],
+  "Address": "172.17.0.1",
+  "Port": 8200
+}
